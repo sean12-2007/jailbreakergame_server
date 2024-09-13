@@ -1,1 +1,1 @@
-# jailbreakergame_server
+This is the server end of the webgame Jailbreakergame.com
