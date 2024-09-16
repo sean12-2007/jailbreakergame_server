@@ -1,0 +1,20 @@
+{
+  "name": "jailbreakergame_server",
+  "version": "1.0.0",
+  "description": "This is the server end of the webgame Jailbreakergame.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.2",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
